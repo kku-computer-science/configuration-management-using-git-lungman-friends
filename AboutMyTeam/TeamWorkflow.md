@@ -3,7 +3,7 @@
 2.นายศุภวิชญ์ ศักดิ์เทวินทร์ 663380239-8 Sec 1
 3.นายสุทธิภัทร รสหอม 663380241-1 Sec 1
 
-คำอธิบาย 
+คำอธิบาย<br>
 1.ยศนนท์ทำการ setup project โดยการสร้างโฟลเดอร์ AboutMyTeam เพื่อเก็บรายละเอียดกระบวนการทำงานของทีม และโฟลเดอร์ Project เพื่อเก็บ source code ต่างๆได้แก่ Quicksort.py, BubbleSort.py และ Main.py 
 2.ศุภวิชญ์ทำการสร้าง QuickSort.py ใน branch ของ Supawit_2398 
 3.สุทธิภัทรทำการสร้าง BubbleSort.py ใน branch ของ Suttipad_2411 
